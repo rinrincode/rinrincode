@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+🌱 I’m currently learning something interesting!
 <!--
 **rinrincode/rinrincode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
